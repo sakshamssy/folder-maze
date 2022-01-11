@@ -8,7 +8,7 @@ import functools
 from time import sleep
 import tkinter.messagebox
 
-# rickrolling url
+# rickrolling url Rick Roll yt
 url = 'https://youtu.be/dQw4w9WgXcQ'
 url2 = 'you just got rickrolled'
 # downloading video
